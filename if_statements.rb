@@ -71,7 +71,7 @@ cups_of_flour = 4
 has_sauce = false
 
 if cups_of_flour >= 2 && has_sauce
-  puts "I can make pizza"
+  puts "Pizza Time!!!!!"
 else 
-  puts "I cannot make pizza :("
+  puts "No pizza :("
 end
